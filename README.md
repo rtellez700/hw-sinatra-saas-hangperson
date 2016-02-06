@@ -60,6 +60,11 @@ Part 0: Demystifying SaaS app creation
 SaaS app, including tracking the libraries it depends on so that your
 production and development environments are as similar as possible.
 
+1. How to create SaaS app
+2. How to version SaaS app
+3. How to deploy SaaS app
+4. Including tracking the libraries that it depends on
+
 **What you will do:** Create a simple "hello world" app using the
 Sinatra framework, version it properly, and deploy it to Heroku.
 
