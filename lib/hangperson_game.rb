@@ -52,8 +52,7 @@ class HangpersonGame
       (word_with_guesses == @word) ? :win : :play
       # puts "in check_win_or_lose"
     else 
-      :lose  
-      # puts "in else"
+      :lose
     end
   end
   
